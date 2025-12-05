@@ -1,1 +1,212 @@
-const _0x4216f0=_0x42dc;(function(_0x88ceee,_0x451088){const _0x1aed47=_0x42dc,_0x367a1e=_0x88ceee();while(!![]){try{const _0x1d0b5e=parseInt(_0x1aed47(0x206))/0x1*(parseInt(_0x1aed47(0x1c3))/0x2)+-parseInt(_0x1aed47(0x191))/0x3*(parseInt(_0x1aed47(0x19e))/0x4)+-parseInt(_0x1aed47(0x21b))/0x5+parseInt(_0x1aed47(0x214))/0x6*(parseInt(_0x1aed47(0x1af))/0x7)+parseInt(_0x1aed47(0x1c6))/0x8+-parseInt(_0x1aed47(0x21d))/0x9+parseInt(_0x1aed47(0x221))/0xa;if(_0x1d0b5e===_0x451088)break;else _0x367a1e['push'](_0x367a1e['shift']());}catch(_0x2b450d){_0x367a1e['push'](_0x367a1e['shift']());}}}(_0x1ad7,0x3bba7));const tiendas=[{'title':_0x4216f0(0x1b5),'url':'https://api.changarrito.mx/bodegon-la-esquina','description':_0x4216f0(0x1ab),'keywords':[_0x4216f0(0x1f4),'aceite',_0x4216f0(0x202),_0x4216f0(0x1dc),'hogar'],'rating':4.2,'country':_0x4216f0(0x1f7),'city':_0x4216f0(0x215),'zona':'Iztapalapa'},{'title':'TechExpress\x20MX','url':'https://api.changarrito.mx/techexpress','description':'Gadgets\x20y\x20tecnología\x20de\x20última\x20generación.','keywords':['tecnología',_0x4216f0(0x1ed),_0x4216f0(0x1f2),'audífonos'],'rating':4.8,'country':_0x4216f0(0x1f7),'city':_0x4216f0(0x1cc),'zona':_0x4216f0(0x1e6)},{'title':_0x4216f0(0x1ba),'url':_0x4216f0(0x1e0),'description':_0x4216f0(0x1e4),'keywords':[_0x4216f0(0x1c4),_0x4216f0(0x1a3),_0x4216f0(0x1d3)],'rating':4.1,'country':_0x4216f0(0x1f7),'city':'Monterrey','zona':_0x4216f0(0x20d)},{'title':'La\x20Frutería\x20Feliz','url':_0x4216f0(0x19c),'description':'Frutas\x20frescas\x20y\x20jugos\x20naturales.','keywords':[_0x4216f0(0x1c4),'jugos',_0x4216f0(0x207)],'rating':4.6,'country':'Perú','city':_0x4216f0(0x1a5),'zona':'San\x20Miguel'},{'title':_0x4216f0(0x1ff),'url':'#','description':'Electrodomésticos\x20y\x20artículos\x20para\x20tu\x20hogar.','keywords':[_0x4216f0(0x208),_0x4216f0(0x1d6)],'rating':4.4,'country':_0x4216f0(0x201),'city':_0x4216f0(0x1f1),'zona':_0x4216f0(0x198)},{'title':_0x4216f0(0x1f3),'url':'#','description':'Ropa\x20moderna\x20con\x20estilo\x20andino.','keywords':[_0x4216f0(0x1fe),_0x4216f0(0x1a0),_0x4216f0(0x21f)],'rating':4.2,'country':_0x4216f0(0x201),'city':_0x4216f0(0x1b1),'zona':_0x4216f0(0x1c5)},{'title':_0x4216f0(0x1c9),'url':'#','description':'Café\x20colombiano\x20artesanal.','keywords':[_0x4216f0(0x1dc),_0x4216f0(0x1cb),_0x4216f0(0x1ac)],'rating':4.9,'country':_0x4216f0(0x20f),'city':_0x4216f0(0x1e5),'zona':_0x4216f0(0x1e2)},{'title':_0x4216f0(0x1d0),'url':'#','description':_0x4216f0(0x1ae),'keywords':['ropa',_0x4216f0(0x1b8),'accesorios'],'rating':0x4,'country':_0x4216f0(0x20f),'city':_0x4216f0(0x1f6),'zona':_0x4216f0(0x1a2)},{'title':_0x4216f0(0x1fd),'url':'#','description':_0x4216f0(0x199),'keywords':[_0x4216f0(0x18c),_0x4216f0(0x207),'vegano'],'rating':4.7,'country':_0x4216f0(0x20f),'city':'Cali','zona':_0x4216f0(0x1b0)},{'title':_0x4216f0(0x1cd),'url':'#','description':_0x4216f0(0x1db),'keywords':[_0x4216f0(0x1ee),_0x4216f0(0x20b)],'rating':4.5,'country':_0x4216f0(0x1b2),'city':_0x4216f0(0x1dd),'zona':'Palermo'},{'title':_0x4216f0(0x1de),'url':'#','description':_0x4216f0(0x1e9),'keywords':[_0x4216f0(0x1a9),_0x4216f0(0x223),'artesanal'],'rating':4.3,'country':_0x4216f0(0x1b2),'city':'Rosario','zona':_0x4216f0(0x1a1)},{'title':'La\x20Feria\x20Natural','url':'#','description':_0x4216f0(0x1ce),'keywords':[_0x4216f0(0x1e1),'salud',_0x4216f0(0x19f)],'rating':4.6,'country':_0x4216f0(0x1b2),'city':_0x4216f0(0x1d8),'zona':_0x4216f0(0x1b9)},{'title':_0x4216f0(0x1ea),'url':'#','description':_0x4216f0(0x212),'keywords':[_0x4216f0(0x1eb),_0x4216f0(0x1d6)],'rating':4.4,'country':_0x4216f0(0x219),'city':_0x4216f0(0x1fc),'zona':_0x4216f0(0x1fb)},{'title':_0x4216f0(0x1f9),'url':'#','description':_0x4216f0(0x210),'keywords':[_0x4216f0(0x1c4),'verduras'],'rating':4.2,'country':'Chile','city':_0x4216f0(0x1da),'zona':_0x4216f0(0x218)},{'title':_0x4216f0(0x195),'url':'#','description':_0x4216f0(0x1a7),'keywords':['ropa',_0x4216f0(0x1a0),_0x4216f0(0x1a4)],'rating':4.8,'country':'Chile','city':'Concepción','zona':'Talcahuano'},{'title':'BabyStore\x20MX','url':'#','description':_0x4216f0(0x1b6),'keywords':['bebés',_0x4216f0(0x1c1),_0x4216f0(0x20a)],'rating':4.5,'country':_0x4216f0(0x1f7),'city':_0x4216f0(0x209),'zona':_0x4216f0(0x1f8)},{'title':_0x4216f0(0x196),'url':'#','description':'Accesorios\x20y\x20componentes\x20gamer.','keywords':[_0x4216f0(0x21a),'pc',_0x4216f0(0x1bf)],'rating':4.9,'country':_0x4216f0(0x201),'city':'Lima','zona':_0x4216f0(0x190)},{'title':_0x4216f0(0x222),'url':'#','description':_0x4216f0(0x19d),'keywords':[_0x4216f0(0x197),_0x4216f0(0x223)],'rating':4.7,'country':_0x4216f0(0x20f),'city':_0x4216f0(0x1f6),'zona':_0x4216f0(0x20e)},{'title':_0x4216f0(0x200),'url':'#','description':_0x4216f0(0x1cf),'keywords':[_0x4216f0(0x1ad),_0x4216f0(0x194),'hogar'],'rating':4.6,'country':'Chile','city':_0x4216f0(0x1fc),'zona':_0x4216f0(0x205)}],paises=[_0x4216f0(0x1b2),_0x4216f0(0x219),_0x4216f0(0x20f),_0x4216f0(0x21c),'México',_0x4216f0(0x201),_0x4216f0(0x1ca)],paisSelect=document[_0x4216f0(0x19b)](_0x4216f0(0x1a6)),optionDefault=document[_0x4216f0(0x1bb)]('option');function _0x42dc(_0x875643,_0x9864fb){_0x875643=_0x875643-0x18c;const _0x1ad7b4=_0x1ad7();let _0x42dcd1=_0x1ad7b4[_0x875643];return _0x42dcd1;}optionDefault[_0x4216f0(0x220)]='',optionDefault[_0x4216f0(0x1be)]=_0x4216f0(0x1c7),paisSelect[_0x4216f0(0x1d5)](optionDefault);const grupos={};paises['forEach'](_0x4ec4a2=>{const _0x1d923c=_0x4216f0,_0x26b056=_0x4ec4a2[0x0]['toUpperCase']();!grupos[_0x26b056]&&(grupos[_0x26b056]=[]),grupos[_0x26b056][_0x1d923c(0x1aa)](_0x4ec4a2);});for(const letra in grupos){const optgroup=document[_0x4216f0(0x1bb)](_0x4216f0(0x204));optgroup['label']=letra,grupos[letra][_0x4216f0(0x1fa)](_0x1575be=>{const _0x3428f0=_0x4216f0,_0x3d2217=document[_0x3428f0(0x1bb)](_0x3428f0(0x1b4));_0x3d2217['value']=_0x1575be,_0x3d2217[_0x3428f0(0x1be)]=_0x1575be,optgroup[_0x3428f0(0x1d5)](_0x3d2217);}),paisSelect[_0x4216f0(0x1d5)](optgroup);}const resultsContainer=document[_0x4216f0(0x19b)](_0x4216f0(0x20c)),searchInput=document[_0x4216f0(0x19b)]('search-input');function highlightText(_0x47c9ec,_0x959c04){const _0x116e14=_0x4216f0;if(!_0x959c04)return _0x47c9ec;const _0x545064=new RegExp('('+_0x959c04[_0x116e14(0x1bd)](/[-/\\^$*+?.()|[\]{}]/g,_0x116e14(0x217))+')','gi');return _0x47c9ec['replace'](_0x545064,_0x116e14(0x1f5));}function generarEstrellas(_0x2d8877){const _0x31eb77=_0x4216f0;let _0x16e8c7=_0x31eb77(0x1ec);const _0x14e69a=Math[_0x31eb77(0x1d1)](_0x2d8877);for(let _0x4fec2b=0x1;_0x4fec2b<=0x5;_0x4fec2b++){_0x16e8c7+='<span\x20class=\x22'+(_0x4fec2b<=_0x14e69a?_0x31eb77(0x1e7):'')+_0x31eb77(0x1e8);}return _0x16e8c7+='</span>\x20<span\x20style=\x22font-size:13px;color:#555;\x22>('+_0x2d8877[_0x31eb77(0x1d4)](0x1)+_0x31eb77(0x1a8),_0x16e8c7;}function _0x1ad7(){const _0x3f91c5=['</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-muted\x22>','Café\x20Tierra\x20Viva','Paraguay','artesanal','Guadalajara','TechZone\x20AR','Tienda\x20naturista\x20y\x20suplementos.','Productos\x20ecológicos\x20y\x20biodegradables.','Ropa\x20Urbana\x20CO','round','country','abarrotes','toFixed','appendChild','hogar','div','Córdoba','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>','Valparaíso','Computación\x20y\x20electrónica.','café','Buenos\x20Aires','Panadería\x20El\x20Molino','keywords','https://api.changarrito.mx/mercadito-santa-ana','natural','El\x20Poblado','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Frutas,\x20verduras\x20y\x20abarrotes\x20frescos\x20todos\x20los\x20días.','Medellín','Zapopan','star-filled','\x22>★</span>','Pan\x20artesanal,\x20bollería\x20y\x20dulces.','ElectroCenter\x20CL','electrónica','<span\x20class=\x22stars\x22>','gadgets','tecnología','trim','Enter','Arequipa','mouse','Moda\x20Andina','bodega','<span\x20class=\x22highlight\x22>$1</span>','Bogotá','México','Juriquilla','Frutas\x20del\x20Sur','forEach','Providencia','Santiago','Mercado\x20Verde','ropa','ElectroHogar\x20Perú','EcoHogar','Perú','arroz','change','optgroup','La\x20Florida','58EWPftF','saludable','electrodomésticos','Querétaro','cuidado','computadoras','results','San\x20Nicolás','Usaquén','Colombia','Frutas\x20y\x20verduras\x20seleccionadas.','className','Artículos\x20electrónicos\x20de\x20calidad.','</div>\x0a\x09\x09\x09\x09<div\x20style=\x22font-size:13px;color:#00BCD4;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20🌍\x20','6pXoacM','CDMX','zona','\x5c$&','Placeres','Chile','gaming','1460775pfFOjj','Costa\x20Rica','3122541HmPSUc','\x20—\x20📍\x20','andina','value','3165640lHlqBy','Casa\x20Dulce','dulces','orgánico','some','description','innerHTML','Miraflores','3WrAjWn','location','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22fw-bold\x22>','biodegradable','Moda\x20Patagonia','GamerPro','pasteles','Cercado','Productos\x20orgánicos\x20certificados.','<div\x20class=\x22text-muted\x22><em>No\x20se\x20encontraron\x20resultados</em></div>','getElementById','https://api.changarrito.mx/la-fruteria-feliz','Repostería\x20artesanal\x20y\x20pasteles.','1212388GcvQaI','suplementos','moda','Centro','Chapinero','verduras','patagonia','Lima','pais-filter','Ropa\x20con\x20influencia\x20patagónica.',')</span>','pan','push','Todo\x20lo\x20que\x20necesitas\x20para\x20tu\x20hogar:\x20alimentos,\x20aceites,\x20arroz,\x20café\x20y\x20más.','colombiano','eco','Moda\x20urbana\x20juvenil\x20y\x20accesorios.','1309441zDWvnO','San\x20Fernando','Cusco','Argentina','href','option','Bodegón\x20La\x20Esquina','Todo\x20para\x20bebés\x20y\x20mamás.','toLowerCase','urbano','Nueva\x20Córdoba','Mercadito\x20Santa\x20Ana','createElement','includes','replace','textContent','teclados','addEventListener','pañales','key','13030QydcLX','frutas','Wanchaq','2442808gVzDZt','Todos\x20los\x20países'];_0x1ad7=function(){return _0x3f91c5;};return _0x1ad7();}document[_0x4216f0(0x19b)](_0x4216f0(0x1a6))[_0x4216f0(0x1c0)](_0x4216f0(0x203),buscarTiendas);function buscarTiendas(){const _0x18ef82=_0x4216f0,_0x521fe7=searchInput[_0x18ef82(0x220)][_0x18ef82(0x1b7)]()[_0x18ef82(0x1ef)](),_0x586a37=document['getElementById'](_0x18ef82(0x1a6))[_0x18ef82(0x220)];resultsContainer[_0x18ef82(0x18f)]='';let _0x42c29b=![];tiendas[_0x18ef82(0x1fa)](_0x568042=>{const _0x5062bd=_0x18ef82;if(_0x586a37!==''&&_0x568042[_0x5062bd(0x1d2)]!==_0x586a37)return;const _0xd4e88f=_0x568042['title'][_0x5062bd(0x1b7)]()[_0x5062bd(0x1bc)](_0x521fe7),_0x5c8fe3=_0x568042[_0x5062bd(0x18e)][_0x5062bd(0x1b7)]()[_0x5062bd(0x1bc)](_0x521fe7),_0x33320b=_0x568042[_0x5062bd(0x1df)][_0x5062bd(0x18d)](_0x4db7e3=>_0x4db7e3[_0x5062bd(0x1bc)](_0x521fe7));if(_0xd4e88f||_0x5c8fe3||_0x33320b){_0x42c29b=!![];const _0x17466f=document[_0x5062bd(0x1bb)](_0x5062bd(0x1d7));_0x17466f[_0x5062bd(0x211)]='result\x20p-3\x20mb-2\x20bg-light\x20rounded\x20shadow-sm',_0x17466f[_0x5062bd(0x18f)]=_0x5062bd(0x193)+highlightText(_0x568042['title'],_0x521fe7)+_0x5062bd(0x1d9)+generarEstrellas(_0x568042['rating'])+_0x5062bd(0x1c8)+highlightText(_0x568042[_0x5062bd(0x18e)],_0x521fe7)+_0x5062bd(0x213)+_0x568042[_0x5062bd(0x1d2)]+_0x5062bd(0x21e)+_0x568042[_0x5062bd(0x216)]+_0x5062bd(0x1e3),_0x17466f[_0x5062bd(0x1c0)]('click',()=>{const _0x4e7751=_0x5062bd;window[_0x4e7751(0x192)][_0x4e7751(0x1b3)]=_0x568042['url'];}),resultsContainer[_0x5062bd(0x1d5)](_0x17466f);}}),!_0x42c29b&&(resultsContainer[_0x18ef82(0x18f)]=_0x18ef82(0x19a));}searchInput[_0x4216f0(0x1c0)]('keypress',_0x29bc6b=>{const _0x4c7ff3=_0x4216f0;if(_0x29bc6b[_0x4c7ff3(0x1c2)]===_0x4c7ff3(0x1f0))buscarTiendas();});
+const tiendas = [
+    // MÉXICO 🇲🇽
+    { title: "Bodegón La Esquina", url: "https://api.changarrito.mx/bodegon-la-esquina",
+      description: "Todo lo que necesitas para tu hogar: alimentos, aceites, arroz, café y más.",
+      keywords: ["bodega","aceite","arroz","café","hogar"], rating: 4.2,
+      country: "México", city: "CDMX", zona: "Iztapalapa" },
+
+    { title: "TechExpress MX", url: "https://api.changarrito.mx/techexpress",
+      description: "Gadgets y tecnología de última generación.",
+      keywords: ["tecnología","gadgets","mouse","audífonos"], rating: 4.8,
+      country: "México", city: "Guadalajara", zona: "Zapopan" },
+
+    { title: "Mercadito Santa Ana", url: "https://api.changarrito.mx/mercadito-santa-ana",
+      description: "Frutas, verduras y abarrotes frescos todos los días.",
+      keywords: ["frutas","verduras","abarrotes"], rating: 4.1,
+      country: "México", city: "Monterrey", zona: "San Nicolás" },
+
+    // PERÚ 🇵🇪
+    { title: "La Frutería Feliz", url: "https://api.changarrito.mx/la-fruteria-feliz",
+      description: "Frutas frescas y jugos naturales.",
+      keywords: ["frutas","jugos","saludable"], rating: 4.6,
+      country: "Perú", city: "Lima", zona: "San Miguel" },
+
+    { title: "ElectroHogar Perú", url: "#",
+      description: "Electrodomésticos y artículos para tu hogar.",
+      keywords: ["electrodomésticos","hogar"], rating: 4.4,
+      country: "Perú", city: "Arequipa", zona: "Cercado" },
+
+    { title: "Moda Andina", url: "#",
+      description: "Ropa moderna con estilo andino.",
+      keywords: ["ropa","moda","andina"], rating: 4.2,
+      country: "Perú", city: "Cusco", zona: "Wanchaq" },
+
+    // COLOMBIA 🇨🇴
+    { title: "Café Tierra Viva", url: "#",
+      description: "Café colombiano artesanal.",
+      keywords: ["café","artesanal","colombiano"], rating: 4.9,
+      country: "Colombia", city: "Medellín", zona: "El Poblado" },
+
+    { title: "Ropa Urbana CO", url: "#",
+      description: "Moda urbana juvenil y accesorios.",
+      keywords: ["ropa","urbano","accesorios"], rating: 4.0,
+      country: "Colombia", city: "Bogotá", zona: "Chapinero" },
+
+    { title: "Mercado Verde", url: "#",
+      description: "Productos orgánicos certificados.",
+      keywords: ["orgánico","saludable","vegano"], rating: 4.7,
+      country: "Colombia", city: "Cali", zona: "San Fernando" },
+
+    // ARGENTINA 🇦🇷
+    { title: "TechZone AR", url: "#",
+      description: "Computación y electrónica.",
+      keywords: ["tecnología","computadoras"], rating: 4.5,
+      country: "Argentina", city: "Buenos Aires", zona: "Palermo" },
+
+    { title: "Panadería El Molino", url: "#",
+      description: "Pan artesanal, bollería y dulces.",
+      keywords: ["pan","dulces","artesanal"], rating: 4.3,
+      country: "Argentina", city: "Rosario", zona: "Centro" },
+
+    { title: "La Feria Natural", url: "#",
+      description: "Tienda naturista y suplementos.",
+      keywords: ["natural","salud","suplementos"], rating: 4.6,
+      country: "Argentina", city: "Córdoba", zona: "Nueva Córdoba" },
+
+    // CHILE 🇨🇱
+    { title: "ElectroCenter CL", url: "#",
+      description: "Artículos electrónicos de calidad.",
+      keywords: ["electrónica","hogar"], rating: 4.4,
+      country: "Chile", city: "Santiago", zona: "Providencia" },
+
+    { title: "Frutas del Sur", url: "#",
+      description: "Frutas y verduras seleccionadas.",
+      keywords: ["frutas","verduras"], rating: 4.2,
+      country: "Chile", city: "Valparaíso", zona: "Placeres" },
+
+    { title: "Moda Patagonia", url: "#",
+      description: "Ropa con influencia patagónica.",
+      keywords: ["ropa","moda","patagonia"], rating: 4.8,
+      country: "Chile", city: "Concepción", zona: "Talcahuano" },
+
+    // EXTRA PARA COMPLETAR 20
+    { title: "BabyStore MX", url: "#",
+      description: "Todo para bebés y mamás.",
+      keywords: ["bebés","pañales","cuidado"], rating: 4.5,
+      country: "México", city: "Querétaro", zona: "Juriquilla" },
+
+    { title: "GamerPro", url: "#",
+      description: "Accesorios y componentes gamer.",
+      keywords: ["gaming","pc","teclados"], rating: 4.9,
+      country: "Perú", city: "Lima", zona: "Miraflores" },
+
+    { title: "Casa Dulce", url: "#",
+      description: "Repostería artesanal y pasteles.",
+      keywords: ["pasteles","dulces"], rating: 4.7,
+      country: "Colombia", city: "Bogotá", zona: "Usaquén" },
+
+    { title: "EcoHogar", url: "#",
+      description: "Productos ecológicos y biodegradables.",
+      keywords: ["eco","biodegradable","hogar"], rating: 4.6,
+      country: "Chile", city: "Santiago", zona: "La Florida" }
+];
+
+const paises = ["Argentina", "Chile", "Colombia", "Costa Rica", "México", "Perú", "Paraguay"];
+
+	
+const paisSelect = document.getElementById("pais-filter");
+	
+// Agregar opción por defecto UNA sola vez
+const optionDefault = document.createElement("option");
+optionDefault.value = "";
+optionDefault.textContent = "Todos los países";
+paisSelect.appendChild(optionDefault);
+	
+const grupos = {};
+
+paises.forEach(p => {
+    const letra = p[0].toUpperCase();
+    if (!grupos[letra]) {
+        grupos[letra] = [];
+    }
+    grupos[letra].push(p);
+});
+
+for (const letra in grupos) {
+    const optgroup = document.createElement("optgroup");
+    optgroup.label = letra;
+
+    grupos[letra].forEach(p => {
+        const option = document.createElement("option");
+        option.value = p;
+        option.textContent = p;
+        optgroup.appendChild(option);
+    });
+
+    paisSelect.appendChild(optgroup);
+}
+
+const resultsContainer = document.getElementById("results");
+const searchInput = document.getElementById("search-input");
+
+function highlightText(text, query) {
+    if(!query) return text;
+    const regex = new RegExp(`(${query.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<span class="highlight">$1</span>');
+}
+
+// ⭐ Genera estrellas visuales según el rating
+function generarEstrellas(rating) {
+    let html = '<span class="stars">';
+    const filled = Math.round(rating);
+
+    for (let i = 1; i <= 5; i++) {
+        html += `<span class="${i <= filled ? 'star-filled' : ''}">★</span>`;
+    }
+
+    html += `</span> <span style="font-size:13px;color:#555;">(${rating.toFixed(1)})</span>`;
+    return html;
+}
+	
+document.getElementById("pais-filter").addEventListener("change", buscarTiendas);
+
+function buscarTiendas() {
+    const query = searchInput.value.toLowerCase().trim();
+	const selectedPais = document.getElementById("pais-filter").value;
+	
+    resultsContainer.innerHTML = "";
+    let encontrados = false;
+
+    tiendas.forEach(tienda => {
+		
+		// Filtro por país
+        if (selectedPais !== "" && tienda.country !== selectedPais) {
+            return; // no coincide → no se muestra
+        }
+		
+		// Filtro por búsqueda
+        const matchTitle = tienda.title.toLowerCase().includes(query);
+        const matchDesc = tienda.description.toLowerCase().includes(query);
+        const matchKeywords = tienda.keywords.some(k => k.includes(query));
+
+        if (matchTitle || matchDesc || matchKeywords) {
+            encontrados = true;
+
+            const div = document.createElement("div");
+            div.className = "result p-3 mb-2 bg-light rounded shadow-sm";
+
+            div.innerHTML = `
+                <div class="fw-bold">${highlightText(tienda.title, query)}</div>
+                <div>${generarEstrellas(tienda.rating)}</div>
+                <div class="text-muted">${highlightText(tienda.description, query)}</div>
+				<div style="font-size:13px;color:#00BCD4;">
+                    🌍 ${tienda.country} — 📍 ${tienda.zona}
+                </div>
+            `;
+
+            div.addEventListener("click", () => {
+                window.location.href = tienda.url;
+            });
+
+            resultsContainer.appendChild(div);
+        }
+    });
+
+    if (!encontrados) {
+        resultsContainer.innerHTML = '<div class="text-muted"><em>No se encontraron resultados</em></div>';
+    }
+}
+
+searchInput.addEventListener("keypress", (e) => { 
+    if (e.key === "Enter") buscarTiendas(); 
+});
